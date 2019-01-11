@@ -19,7 +19,7 @@ public class Suma2ElemArray {
     public void suma(int userInput[]) {
 
         int S;
-        b = new int[6][6];
+        b = new int[10][10];
 
             for (int j = 1; j < userInput.length; j++) {
                 S = userInput[0] + userInput[j];
@@ -32,7 +32,7 @@ public class Suma2ElemArray {
 
         for (int i = 1; i < userInput.length; i++) {
 
-            if (i==5)
+            if (i==9)
                 break;
             S = userInput[i] + userInput[userInput.length - 1];
             System.out.println(S);
