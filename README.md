@@ -1,5 +1,1 @@
-afisare suma a 2 elem dintr-un array care este egala cu un n dat de la tastatura.
-Cerinte :
-elem pot sa fie oricare;
-nu se pot aduna elem de pe acelasi index;
-afisarea sumei se face doar o data
+afisarea elementelor dintr-un array[] a caror suma este egala cu un n dat de la tastatura

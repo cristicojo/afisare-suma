@@ -1,7 +1,4 @@
-.DS_Store
-
 .idea
-
 out
-
-afisare suma a oricaror 2 elem dintr-un array care este egala cu un n dat de la tastatura.iml
+afisare suma.iml
+*.DS_Store
